@@ -72,7 +72,7 @@ nav ul li:hover::after {
   opacity: 1;
 }
 
-/* IDEA: ----------------------------------------------------------------------------- */
+/*----------------------------------------------------------------------------- */
 
 body {
   color: #A5C9CA;
@@ -175,6 +175,31 @@ h3 {
 .drawing-image {
   width: 25%;
   float: left;
+  margin: 30px;
+}
+.cycling-image {
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+.garden-image {
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+.writing-image {
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+.chess-image {
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+.martial-image {
+  width: 25%;
+  float: right;
   margin: 30px;
 }
 .skill-row {
